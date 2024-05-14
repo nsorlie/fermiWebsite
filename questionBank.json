@@ -1,14 +1,12 @@
 {
     "questions": {
         "og": {
-          "How many beard seconds tall is the Empire State Building?": [[9], ["1454", "ft", "1", "Beard Second", "1454", "2.42*10^9"], ["1", "Empire State Building", "0.0000006", "ft", "0.0000006"]],
-          "If you traveled 1 foot per second how many centuries would it take you to reach the moon?": [[0], ["1", "miles", "1", "ft", "3000000000", "second", "3000000000", "2.3*10^0"], ["238900", "distance to moon", "5280", "miles", "1", "century", "1261392000"]],
-          "How many sheets of paper would it take to fill a Boeing 747?": [[8], ["1", "Boeing 747", "0.3553", "in^3", "0.000578704", "ft^3", "0.0002056135312", "6.5*10^-9"], ["31,285", "ft^3", "1", "sheet of paper", "1", "cubic inches", "31285"]], 
-          "How many galaxies would fit inside a thimble?": [[-56], ["1", "galaxy", "1", "lightyear^3", "1", "volume of thimble", "16.3871", "cm^3", "16.3871", "1.10^10^-56"], ["100000000", "lightyears^3", "2.9*10^49", "in^3", "0.5", "cm^3", "1", "in^3", "1.49*10^57"]],
-          "How long would it take for a ray of light to travel around the Earth in minutes?": [[-3], ["1", "sec", "25000", "miles", "1609", "meters", "1", "min", "40225000", "2*10^-3"], ["300000000", "meters", "1", "circumference of Earth", "1", "mile", "60", "sec", "18000000000"]], 
-          "If a penny fell from the top of the Empire State Building how many decades would it take to hit the ground?": [[-5], ["1", "Eiffel tower", "60", "miles", "1", "decade", "1609.34", "meters", "96560.4", "5.6*10^-5"], ["330", "meters", "1", "hour", "5200000", "minuets", "1", "mile", "1716000000"]],
-          "How many rotations of a bike tire would occure if you were to bike from Seattle to New York?": [[6], ["1", "tire circumference", "4645", "km", "1000000", "mm", "4645010000", "2*10^6"], ["2200", "mm", "1", "distance from Seattle to NY", "1", "km", "2200"]],
-          "How large is a grain of sand measured in the volume of average human adult males?": [[-8], ["0.00947", "mm^3", "1", "Average human male", "1", "cm^3", "0.00947", "1*10^8"], ["1", "grain of sand", "1000", "cm^3", "1000", "mm^3", "1000000"]]
+        "How many pennies could you fit all the volume of water in the ocean?":  [[24.00], ["2.50E+06", "pennies", "1.40E+18", "m^3", "3.50E+24", "3.50E+24", "", "", "", ""], ["1.00E+00", "m^3", "1.00E+00", "Earth's ocean", "1.00E+00", "", "", "", "", ""]] 
+        "How long can a human live with only a skyscraper's worth of oxygen left in minutes?":  [[8.00], ["1.00E+06", "m^3", "1.00E+00", "second", "1.00E+00", "minutes ", "1.00E+06", "7.20E+07", "", ""], ["1.00E+00", "skyscraper", "2.31E-04", "m^3 (air consumed per human)", "6.00E+01", "second", "1.39E-02", "", "", ""]] 
+        "How many Average human males could be stacked head to toe from the Earth to the sun?":  [[11.00], ["1.51E+11", "m", "1.00E+00", "Average Human male", "1.51E+11", "8.52E+10", "7.20E+07", "", "", ""], ["1.00E+00", "Distance from Earth to the Sun", "1.77E+00", "m", "1.77E+00", "", "", "", "", ""]] 
+        "How many Earths could fit inside the Volume of a marble?":  [[-27.00], ["1.00E+00", "Earth Volume", "2.00E-06", "m", "2.00E-06", "1.85E-27", "", "", "", ""], ["1.08E+21", "m^3", "1.00E+00", "marble", "1.08E+21", "", "", "", "", ""]] 
+        "How long is the average lifespan of an ant measured in the age of the universe?":  [[-10.00], ["2.52E+07", "Seconds", "1.00E+00", "Age of the Universe", "2.52E+07", "5.79E-11", "", "", "", ""], ["1.00E+00", "Ant lifespan", "4.36E+17", "Seconds", "4.36E+17", "", "", "", "", ""]] 
+        "How many oceans could we fill with the ammount of coffee consumed by Americans this year?":  [[10.00], ["1", "Second", "1.00E+00", "Cups of coffee", "1.40E+18", "Cubic meters of water", "1", "Year", "1.40E+18", "3.86E+10"], ["4.87E+03", "Cups of Coffee drunk", "2.37E-04", "Cubic meter of coffee", "1.00E+00", " Ocean", "3.15E+07", "Seconds", "3.63E+07", ""]] 
         }
     },
     "sources": {
